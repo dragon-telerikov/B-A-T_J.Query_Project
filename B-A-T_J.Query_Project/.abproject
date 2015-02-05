@@ -1,7 +1,7 @@
 {
   "ProjectGuid": "9876b86a-bbe6-40b8-a7a0-8db4287cb550",
   "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
-  "AppIdentifier": "com.telerik.B_A_T_J_Query_Project",
+  "AppIdentifier": "com.telerik.BATJQueryProject",
   "ProjectName": "B-A-T_J.Query_Project",
   "IsRunnable": "true",
   "TemplateAppName": "Cordova240",
